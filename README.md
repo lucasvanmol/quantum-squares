@@ -1,2 +1,3 @@
-# quantum-squares
-LANS Final Year Project
+# A Quantum Approach to Magic Square Enumeration
+
+LANS Final Year Project (work in progress)
